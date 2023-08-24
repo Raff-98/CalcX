@@ -1,2 +1,2 @@
 # CalcX
-A simple calculator.
+A simple calculator with 4 basics operations.
